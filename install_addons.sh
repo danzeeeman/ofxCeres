@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Dependencies for robotArmRepo
-#make sure you are in the robotArmRepo project when you run this script
+# Dependencies for ofxCeres
+#make sure you are in the ofxCeres folder when you run this script
 
 cd ../../addons
 
