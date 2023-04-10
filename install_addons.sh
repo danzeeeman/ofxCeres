@@ -14,4 +14,3 @@ ${PREFIX}elliotwoods/ofxLiquidEvent
 ${PREFIX}elliotwoods/ofxSingleton
 ${PREFIX}elliotwoods/ofxTextInputField
 ${PREFIX}elliotwoods/ofxAudioDecoder
-cd ../addons/ofxRobotArm
