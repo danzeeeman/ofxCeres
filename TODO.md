@@ -1,0 +1,5 @@
+- [ ] Install additional Addons Bat/Script
+- [ ] lower case examples names
+- [ ] fix addons config on windows
+- [ ] fix project generator 
+- [ ] test on daily & recompile for of 0.12 vs2019 v142
